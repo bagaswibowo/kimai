@@ -36,7 +36,7 @@
     "jquery-ui": "^1.12.1",
     "js-cookie": "^2.2.0",
     "moment": "^2.24.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "sass-loader": "^7.0.2",
     "sweetalert2": "^8.11.7",
     "webpack-notifier": "^1.5.1"
